@@ -1,5 +1,5 @@
-# MovieVault
-Just a backup of the list of all movies I have watched since September 2020 - this is when I started regularly watching movies.
+# MovieVault 🎥
+Just a backup of the list of all movies I have watched since September 2020. Planning on making my own rating web-app at some point, this is just an intermediate place to store the data whilst I set it up.
 
 ## 2020:
 * Blade Runner (7/10)
