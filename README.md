@@ -2,10 +2,10 @@
 Just a backup of the list of all movies I have watched since September 2020. Planning on making my own rating web-app at some point, this is just an intermediate place to store the data whilst I set it up.
 
 ## Navigation
-* [2020](##2020)
-* [2021](##2021)
-* [Soundtrack Highlights](##Soundtrack-Highlights)
-* [Watchlist](##Watchlist)
+* [2020](#2020)
+* [2021](#2021)
+* [Soundtrack Highlights](#Soundtrack-Highlights)
+* [Watchlist](#Watchlist)
 
 ## 2020
 * Blade Runner (7/10)
