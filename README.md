@@ -21,6 +21,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 ## 2021
 * Coco (6/10)
 * Soul (6/10)
+* The Midnight Sky (4/10)
 * Chef (7/10)
 * Moneyball (5/10)
 * News of the World (5/10)
