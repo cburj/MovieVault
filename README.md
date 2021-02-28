@@ -33,10 +33,13 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Tenet (8/10)
 
 ## Soundtrack Highlights
-(The best soundtracks I have heard from the above movies in no particular order)
+The best soundtracks I have heard from the above movies in no particular order
 * Tenet
 * Blade Runner
 * Blade Runner 2049
+
+Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favourite tracks from Movies, TV Shows and Games:
+https://open.spotify.com/playlist/2God9HBJ3pnsK9oyfWfgmA?si=WmJrd8fCQBu8ipYanU84Bg
 
 ## Watchlist
 (Movies I still need to watch, I don't know how I haven't seen this yet - but I'm working on fixing that!)
