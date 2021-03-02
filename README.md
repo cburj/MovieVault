@@ -48,7 +48,6 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 * 2001 A Space Odyssey
 * Se7en
 * Saving Private Ryan
-* Forrest Gump
 * The Shawshank Redemption
 * The Hateful 8
 * Sicario
