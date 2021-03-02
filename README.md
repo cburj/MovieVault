@@ -42,7 +42,7 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 [Epic Cinema🎥](https://open.spotify.com/playlist/2God9HBJ3pnsK9oyfWfgmA?si=WmJrd8fCQBu8ipYanU84Bg)
 
 ## Watchlist
-(Movies I still need to watch, I don't know how I haven't seen this yet - but I'm working on fixing that!)
+(Movies I still need to watch, I don't know how I haven't seen these yet - but I'm working on fixing that!)
 * Ex Machina
 * Pulp Fiction
 * 2001 A Space Odyssey
