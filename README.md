@@ -30,9 +30,10 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Ad Astra (5/10)
 * Catch Me If You Can (5/10)
 * The Dig (6/10)
-* Tenet (8/10)
+* Tenet (9/10)
 * Forest Gump (6/10)
 * Baby Driver (7/10)
+* Wind River (7/10)
 
 ## Soundtrack Highlights
 The best soundtracks I have heard from the above movies in no particular order
@@ -57,4 +58,3 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 * Prisoners
 * Memento
 * Attack the Block
-* Wind River
