@@ -34,6 +34,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Forest Gump (6/10)
 * Baby Driver (7/10)
 * Wind River (7/10)
+* Hell or High Water (6/10)
 
 ## Soundtrack Highlights
 The best soundtracks I have heard from the above movies in no particular order
