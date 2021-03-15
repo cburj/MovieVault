@@ -16,7 +16,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * John Wick Chapter II (5/10)
 * John Wick Chapter III (5/10)
 * Zodiac (7/10)
-* Hot Fuzz (7/10)
+* Hot Fuzz (7/10) [R]
 
 ## 2021
 * Coco (6/10)
@@ -32,9 +32,12 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * The Dig (6/10)
 * Tenet (9/10)
 * Forest Gump (6/10)
-* Baby Driver (7/10)
+* Baby Driver (7/10) [R]
 * Wind River (7/10)
 * Hell or High Water (6/10)
+* Dunkirk (7/10) [R]
+
+[R] = Rewatch
 
 ## Soundtrack Highlights
 The best soundtracks I have heard from the above movies in no particular order
