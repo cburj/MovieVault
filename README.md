@@ -61,7 +61,6 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 * Saving Private Ryan
 * The Shawshank Redemption
 * The Hateful 8
-* Sicario
 * Prisoners
 * Memento
 * Attack the Block
