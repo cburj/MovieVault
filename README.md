@@ -38,6 +38,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Dunkirk (7/10) [R]
 * Sicario (7/10)
 * Pokémon Detective Pikachu (5/10)
+* Sicario 2: Soldado (6/10)
 
 [R] = Rewatch
 
