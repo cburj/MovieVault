@@ -26,6 +26,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Soul (6/10)
 * The Midnight Sky (4/10)
 * Chef (7/10)
+* Greenland (6/10)
 * Moneyball (5/10)
 * News of the World (5/10)
 * A Beautiful Day in the Neighbourhood (6/10)
