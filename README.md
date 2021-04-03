@@ -45,7 +45,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Sicario 2: Soldado (6/10)
 * A Quiet Place (5/10)
 * Ghost in the Shell (4/10)
-* Godzilla vs Kong (/10)
+* Godzilla vs Kong (5/10)
 
 [R] = Rewatch
 
