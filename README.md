@@ -40,9 +40,9 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Wind River (7/10)
 * Hell or High Water (6/10)
 * Dunkirk (7/10) [R]
-* Sicario (7/10)
+* Sicario (8/10)
 * Pokémon Detective Pikachu (5/10)
-* Sicario 2: Soldado (6/10)
+* Sicario 2: Soldado (7/10)
 * A Quiet Place (5/10)
 * Ghost in the Shell (4/10)
 * Godzilla vs Kong (5/10)
