@@ -46,6 +46,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * A Quiet Place (5/10)
 * Ghost in the Shell (4/10)
 * Godzilla vs Kong (5/10)
+* Prisoners (7/10)
 
 [R] = Rewatch
 
@@ -70,6 +71,5 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 * Saving Private Ryan
 * The Shawshank Redemption
 * The Hateful 8
-* Prisoners
 * Memento
 * Attack the Block
