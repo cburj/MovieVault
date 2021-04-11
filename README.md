@@ -46,6 +46,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * A Quiet Place (5/10)
 * Ghost in the Shell (4/10)
 * Godzilla vs Kong (5/10)
+* Casino Royale (6/10) [R]
 * Prisoners (7/10)
 
 [R] = Rewatch
