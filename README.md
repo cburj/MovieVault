@@ -8,7 +8,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * [Watchlist](#Watchlist)
 
 ## 2020
-* Blade Runner (7/10)
+* Blade Runner (8/10)
 * Blade Runner 2049 (10/10)
 * The Matrix (5/10)
 * Aliens (5/10)
@@ -47,8 +47,9 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Ghost in the Shell (4/10)
 * Godzilla vs Kong (5/10)
 * Casino Royale (6/10) [R]
-* Prisoners (7/10)
+* Prisoners (8/10)
 * Tropic Thunder (4/10)
+* Sound of Metal (7/10)
 
 [R] = Rewatch
 
