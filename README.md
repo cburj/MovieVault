@@ -54,13 +54,14 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 [R] = Rewatch
 
 ## Soundtrack Highlights
-The best soundtracks I have heard from the above movies in no particular order
+The best soundtracks I have heard from the above movies in no particular order. Basically, anything by Hans Zimmer or Jóhann Jóhannsson gets a 10/10 from me.
 * Tenet
 * Blade Runner
 * Blade Runner 2049
 * Baby Driver
 * Wind River
 * Sicario
+* Prisoners
 
 Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favourite tracks from Movies, TV Shows and Games:
 [Epic Cinema🎥](https://open.spotify.com/playlist/2God9HBJ3pnsK9oyfWfgmA?si=WmJrd8fCQBu8ipYanU84Bg)
