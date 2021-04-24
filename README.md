@@ -36,7 +36,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * The Dig (6/10)
 * Tenet (9/10)
 * Forest Gump (6/10)
-* Baby Driver (9/10) [R]
+* Baby Driver (8/10) [R]
 * Wind River (7/10)
 * Hell or High Water (6/10)
 * Dunkirk (7/10) [R]
