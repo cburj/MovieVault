@@ -50,6 +50,8 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Prisoners (8/10)
 * Tropic Thunder (4/10)
 * Sound of Metal (7/10)
+* Trial of the Chicago 7 (/10)
+* Stowaway (/10)
 
 [R] = Rewatch
 
