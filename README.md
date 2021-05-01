@@ -52,6 +52,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Sound of Metal (7/10)
 * Trial of the Chicago 7 (6/10)
 * Nightcrawler (7/10)
+* Enemy (8/10)
 * Stowaway (/10)
 
 [R] = Rewatch
