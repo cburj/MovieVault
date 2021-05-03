@@ -54,6 +54,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Nightcrawler (7/10)
 * Enemy (8/10)
 * Stowaway (6/10)
+* Memento (8/10)
 
 [R] = Rewatch
 
@@ -79,5 +80,4 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 * Saving Private Ryan
 * The Shawshank Redemption
 * The Hateful 8
-* Memento
 * Attack the Block
