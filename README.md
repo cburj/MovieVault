@@ -76,7 +76,6 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 (Movies I still need to watch, I don't know how I haven't seen these yet - but I'm working on fixing that!)
 * Ex Machina
 * Pulp Fiction
-* 2001 A Space Odyssey
 * Se7en
 * Saving Private Ryan
 * The Shawshank Redemption
