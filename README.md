@@ -55,6 +55,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Enemy (8/10)
 * Stowaway (6/10)
 * Memento (8/10)
+* 2001: A Space Odyssey (6/10)
 
 [R] = Rewatch
 
