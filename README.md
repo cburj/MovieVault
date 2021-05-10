@@ -25,7 +25,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Coco (6/10)
 * Soul (6/10)
 * The Midnight Sky (4/10)
-* Chef (7/10)
+* Chef (8/10)
 * Greenland (6/10)
 * Moneyball (5/10)
 * News of the World (5/10)
@@ -39,7 +39,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Baby Driver (9/10) [R]
 * Wind River (7/10)
 * Hell or High Water (6/10)
-* Dunkirk (7/10) [R]
+* Dunkirk (8/10) [R]
 * Sicario (8/10)
 * Pokémon Detective Pikachu (5/10)
 * Sicario 2: Soldado (7/10)
@@ -54,7 +54,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Nightcrawler (7/10)
 * Enemy (9/10)
 * Stowaway (6/10)
-* Memento (9/10)
+* Memento (8/10)
 * 2001: A Space Odyssey (7/10)
 * Atomic Blonde (5/10)
 
