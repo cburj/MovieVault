@@ -15,8 +15,8 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * John Wick (5/10)
 * John Wick Chapter II (5/10)
 * John Wick Chapter III (5/10)
-* Zodiac (7/10)
-* Hot Fuzz (7/10) [R]
+* Zodiac (8/10)
+* Hot Fuzz (8/10) [R]
 
 ## 2021
 * The Bourne Supremacy (5/10)
@@ -31,12 +31,12 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * News of the World (5/10)
 * A Beautiful Day in the Neighbourhood (6/10)
 * Close Encounters of the Third Kind (7/10)
-* Ad Astra (5/10)
+* Ad Astra (6/10)
 * Catch Me If You Can (5/10)
 * The Dig (6/10)
 * Tenet (9/10)
 * Forest Gump (6/10)
-* Baby Driver (8/10) [R]
+* Baby Driver (9/10) [R]
 * Wind River (7/10)
 * Hell or High Water (6/10)
 * Dunkirk (7/10) [R]
@@ -47,14 +47,14 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Ghost in the Shell (4/10)
 * Godzilla vs Kong (5/10)
 * Casino Royale (6/10) [R]
-* Prisoners (8/10)
+* Prisoners (9/10)
 * Tropic Thunder (4/10)
 * Sound of Metal (7/10)
 * Trial of the Chicago 7 (6/10)
 * Nightcrawler (7/10)
-* Enemy (8/10)
+* Enemy (9/10)
 * Stowaway (6/10)
-* Memento (8/10)
+* Memento (9/10)
 * 2001: A Space Odyssey (7/10)
 * Atomic Blonde (5/10)
 
