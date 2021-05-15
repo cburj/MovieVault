@@ -57,6 +57,8 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Memento (8/10)
 * 2001: A Space Odyssey (7/10)
 * Atomic Blonde (5/10)
+* School of Rock (6/10)
+* Those Who Wish Me Dead (/10)
 
 [R] = Rewatch
 
