@@ -59,6 +59,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Atomic Blonde (5/10)
 * School of Rock (6/10)
 * Those Who Wish Me Dead (6/10)
+* Nobody (/10)
 
 [R] = Rewatch
 
