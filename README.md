@@ -61,6 +61,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Those Who Wish Me Dead (6/10)
 * Nobody (6/10)
 * Army of the Dead (4/10)
+* Pulp Fiction (/10)
 
 [R] = Rewatch
 
@@ -80,7 +81,6 @@ Feel free to check out my "Epic Cinema" Spotify playlist, filled with my favouri
 ## Watchlist
 (Movies I still need to watch, I don't know how I haven't seen these yet - but I'm working on fixing that!)
 * Ex Machina
-* Pulp Fiction
 * Se7en
 * Saving Private Ryan
 * The Shawshank Redemption
