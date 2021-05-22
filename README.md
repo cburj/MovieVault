@@ -60,6 +60,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * School of Rock (6/10)
 * Those Who Wish Me Dead (6/10)
 * Nobody (6/10)
+* Army of the Dead (4/10)
 
 [R] = Rewatch
 
