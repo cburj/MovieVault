@@ -62,6 +62,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Nobody (6/10)
 * Army of the Dead (4/10)
 * Pulp Fiction (7/10)
+* Full Metal Jacket (7/10)
 
 [R] = Rewatch
 
