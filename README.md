@@ -66,6 +66,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * Men in Black: International (4/10)
 * Edge of Tomorrow (5/10)
 * Whiplash (7/10)
+* Apocalypse Now (7/10)
 
 [R] = Rewatch
 
