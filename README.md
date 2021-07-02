@@ -70,6 +70,7 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * The Irishman (7/10)
 * Sorry We Missed You (6/10)
 * The Wolf of Wall Street (7/10)
+* No Sudden Move (6/10)
 
 [R] = Rewatch
 
