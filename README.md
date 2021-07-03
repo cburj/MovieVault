@@ -1,6 +1,16 @@
 # 🎥 MovieVault
 Just a backup of the list of all movies I have watched since September 2020. Planning on making my own rating web-app at some point, this is just an intermediate place to store the data whilst I set it up.
 
+## Rating System
+My personal rating system is a bit harsh, as I don't want to be giving out an A* to every movie that is decent.
+* A* = Incredible in all aspects, a true masterpiece.
+* A = Excellent movie, with only a few minor issues.
+* B = Solid movie that most people should watch.
+* C = Good movie, but has a number of issues.
+* D = Decent movie, but doesn't quite captivate me.
+* E = Worth a watch, but don't expect much.
+* F = Not recommended - watch at your own risk!
+
 ## Navigation
 * [2020](#2020)
 * [2021](#2021)
@@ -8,69 +18,69 @@ Just a backup of the list of all movies I have watched since September 2020. Pla
 * [Watchlist](#Watchlist)
 
 ## 2020
-* Blade Runner (8/10)
-* Blade Runner 2049 (10/10)
-* The Matrix (5/10)
-* Aliens (5/10)
-* John Wick (5/10)
-* John Wick Chapter II (5/10)
-* John Wick Chapter III (5/10)
-* Zodiac (8/10)
-* Hot Fuzz (8/10) [R]
+* Blade Runner - B
+* Blade Runner 2049 - A*
+* The Matrix - E
+* Aliens - E
+* John Wick - E
+* John Wick Chapter II - E
+* John Wick Chapter III - E
+* Zodiac - B
+* Hot Fuzz - B) [R]
 
 ## 2021
-* The Bourne Supremacy (5/10)
-* The Bourne Ultimatum (5/10)
-* Jason Bourne (6/10)
-* Coco (6/10)
-* Soul (6/10)
-* The Midnight Sky (4/10)
-* Chef (8/10)
-* Greenland (6/10)
-* Moneyball (5/10)
-* News of the World (5/10)
-* A Beautiful Day in the Neighbourhood (6/10)
-* Close Encounters of the Third Kind (7/10)
-* Ad Astra (6/10)
-* Catch Me If You Can (5/10)
-* The Dig (6/10)
-* Tenet (9/10)
-* Forest Gump (6/10)
-* Baby Driver (9/10) [R]
-* Wind River (7/10)
-* Hell or High Water (6/10)
-* Dunkirk (8/10) [R]
-* Sicario (8/10)
-* Pokémon Detective Pikachu (5/10)
-* Sicario 2: Soldado (7/10)
-* A Quiet Place (5/10)
-* Ghost in the Shell (4/10)
-* Godzilla vs Kong (5/10)
-* Casino Royale (6/10) [R]
-* Prisoners (9/10)
-* Tropic Thunder (4/10)
-* Sound of Metal (7/10)
-* Trial of the Chicago 7 (6/10)
-* Nightcrawler (7/10)
-* Enemy (9/10)
-* Stowaway (6/10)
-* Memento (8/10)
-* 2001: A Space Odyssey (7/10)
-* Atomic Blonde (5/10)
-* School of Rock (6/10)
-* Those Who Wish Me Dead (6/10)
-* Nobody (6/10)
-* Army of the Dead (4/10)
-* Pulp Fiction (8/10)
-* Full Metal Jacket (7/10)
-* Men in Black: International (4/10)
-* Edge of Tomorrow (5/10)
-* Whiplash (7/10)
-* Apocalypse Now (7/10)
-* The Irishman (7/10)
-* Sorry We Missed You (6/10)
-* The Wolf of Wall Street (7/10)
-* No Sudden Move (6/10)
+* The Bourne Supremacy - E
+* The Bourne Ultimatum - E
+* Jason Bourne - D
+* Coco - D
+* Soul - D
+* The Midnight Sky - F
+* Chef - B
+* Greenland - D
+* Moneyball - D
+* News of the World - E
+* A Beautiful Day in the Neighbourhood - D
+* Close Encounters of the Third Kind - C
+* Ad Astra - C
+* Catch Me If You Can - E
+* The Dig - D
+* Tenet - A
+* Forest Gump - D
+* Baby Driver - A [R]
+* Wind River - B
+* Hell or High Water - C
+* Dunkirk - B [R]
+* Sicario - B
+* Pokémon Detective Pikachu - E
+* Sicario 2: Soldado - C
+* A Quiet Place - D
+* Ghost in the Shell - F
+* Godzilla vs Kong - E
+* Casino Royale - D [R]
+* Prisoners - A
+* Tropic Thunder - F
+* Sound of Metal - C
+* Trial of the Chicago 7 - D
+* Nightcrawler - C
+* Enemy - A
+* Stowaway - D
+* Memento - B
+* 2001: A Space Odyssey - B
+* Atomic Blonde - E
+* School of Rock - D
+* Those Who Wish Me Dead - C
+* Nobody - C
+* Army of the Dead - F
+* Pulp Fiction - B
+* Full Metal Jacket - C
+* Men in Black: International - F
+* Edge of Tomorrow - E
+* Whiplash - C
+* Apocalypse Now - B
+* The Irishman - C
+* Sorry We Missed You - D
+* The Wolf of Wall Street - C
+* No Sudden Move - D
 
 [R] = Rewatch
 
