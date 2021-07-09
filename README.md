@@ -1,15 +1,5 @@
 # 🎥 MovieVault
-Just a backup of the list of all movies I have watched since September 2020. Planning on making my own rating web-app at some point, this is just an intermediate place to store the data whilst I set it up.
-
-## Rating System
-My personal rating system is a bit harsh, as I don't want to be giving out an A* to every movie that is decent.
-* A* = Incredible in all aspects, a true masterpiece.
-* A = Excellent movie, with only a few minor issues.
-* B = Solid movie that most people should watch.
-* C = Good movie, but has a number of issues.
-* D = Decent movie, but doesn't quite captivate me.
-* E = Worth a watch, but don't expect much.
-* F = Not recommended - watch at your own risk!
+Just a backup of the list of all movies I have watched since September 2020.
 
 ## Navigation
 * [2020](#2020)
@@ -18,69 +8,71 @@ My personal rating system is a bit harsh, as I don't want to be giving out an A*
 * [Watchlist](#Watchlist)
 
 ## 2020
-* Blade Runner - B
-* Blade Runner 2049 - A*
-* The Matrix - E
-* Aliens - E
-* John Wick - E
-* John Wick Chapter II - E
-* John Wick Chapter III - E
-* Zodiac - B
-* Hot Fuzz - B) [R]
+* Blade Runner
+* Blade Runner 2049
+* The Matrix
+* Aliens
+* John Wick
+* John Wick Chapter II
+* John Wick Chapter III
+* Zodiac
+* Hot Fuzz [R]
 
 ## 2021
-* The Bourne Supremacy - E
-* The Bourne Ultimatum - E
-* Jason Bourne - D
-* Coco - D
-* Soul - D
-* The Midnight Sky - F
-* Chef - B
-* Greenland - D
-* Moneyball - D
-* News of the World - E
-* A Beautiful Day in the Neighbourhood - D
-* Close Encounters of the Third Kind - C
-* Ad Astra - C
-* Catch Me If You Can - E
-* The Dig - D
-* Tenet - A
-* Forest Gump - D
-* Baby Driver - A [R]
-* Wind River - B
-* Hell or High Water - C
-* Dunkirk - B [R]
-* Sicario - B
-* Pokémon Detective Pikachu - E
-* Sicario 2: Soldado - C
-* A Quiet Place - D
-* Ghost in the Shell - F
-* Godzilla vs Kong - E
-* Casino Royale - D [R]
-* Prisoners - A
-* Tropic Thunder - F
-* Sound of Metal - C
-* Trial of the Chicago 7 - D
-* Nightcrawler - C
-* Enemy - A
-* Stowaway - D
-* Memento - B
-* 2001: A Space Odyssey - B
-* Atomic Blonde - E
-* School of Rock - D
-* Those Who Wish Me Dead - C
-* Nobody - C
-* Army of the Dead - F
-* Pulp Fiction - B
-* Full Metal Jacket - C
-* Men in Black: International - F
-* Edge of Tomorrow - E
-* Whiplash - C
-* Apocalypse Now - B
-* The Irishman - C
-* Sorry We Missed You - D
-* The Wolf of Wall Street - C
-* No Sudden Move - D
+* The Bourne Supremacy
+* The Bourne Ultimatum
+* Jason Bourne
+* Coco
+* Soul
+* The Midnight Sky
+* Chef
+* Greenland
+* Moneyball
+* News of the World
+* A Beautiful Day in the Neighbourhood
+* Close Encounters of the Third Kind
+* Ad Astra
+* Catch Me If You Can
+* The Dig
+* Tenet
+* Forest Gump
+* Baby Driver [R]
+* Wind River
+* Hell or High Water
+* Dunkirk [R]
+* Sicario
+* Pokémon Detective Pikachu
+* Sicario 2: Soldado
+* A Quiet Place
+* Ghost in the Shell
+* Godzilla vs Kong
+* Casino Royale [R]
+* Prisoners
+* Tropic Thunder
+* Sound of Metal
+* Trial of the Chicago 7
+* Nightcrawler
+* Enemy
+* Stowaway
+* Memento
+* 2001: A Space Odyssey
+* Atomic Blonde
+* School of Rock
+* Those Who Wish Me Dead
+* Nobody
+* Army of the Dead
+* Pulp Fiction
+* Full Metal Jacket
+* Men in Black: International
+* Edge of Tomorrow
+* Whiplash
+* Apocalypse Now
+* The Irishman
+* Sorry We Missed You
+* The Wolf of Wall Street
+* No Sudden Move
+* Inglourious Basterds
+* Once Upon a Time in Hollywood
 
 [R] = Rewatch
 
