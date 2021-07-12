@@ -73,6 +73,7 @@ Just a backup of the list of all movies I have watched since September 2020.
 * No Sudden Move
 * Inglourious Basterds
 * Once Upon a Time in Hollywood
+* The Tomorrow War
 
 [R] = Rewatch
 
